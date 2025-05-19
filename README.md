@@ -3,7 +3,7 @@
 
 Este é o repositório do meu portfólio profissional, desenvolvido com React e TypeScript. O projeto tem como objetivo apresentar meus trabalhos, competências técnicas e trajetória de forma moderna e responsiva.
 
-<img width="900" height="900" src ="./src/assets/capa-projeto.png" >
+<img width="700" height="700" src ="./src/assets/capa-projeto.png" >
 
 
 ## Tecnologias
@@ -40,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🌐 Deploy
 Este portfólio está hospedado em:
 
-🔗 meusite.com.br <!-- Atualize com seu domínio -->
+🔗 https://portifolio-diegochagas-profissional.vercel.app/ <!-- Atualize com seu domínio -->
 
 <br/>
 
