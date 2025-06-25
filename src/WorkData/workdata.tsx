@@ -6,6 +6,7 @@ import controllerMoney from "../assets/controller-money.png"
 import coffeeDelivery from "../assets/coffee-delivery.jpg"
 import salary from "../assets/salary-calc.png"
 import control from "../assets/control-system.png"
+import vibify from "../assets/vibify.png"
 
 import { GithubLogo, GoogleChromeLogo } from "@phosphor-icons/react";
 
@@ -128,6 +129,21 @@ export const workData = [
         icon: <GoogleChromeLogo size={25} />,
         text: "Website",
         url: "https://mini-control-system.vercel.app/",
+      },
+    ],
+  },
+    {
+    image: vibify,
+    links: [
+      {
+        icon: <GithubLogo size={25} />,
+        text: "GitHub",
+        url: "https://github.com/diegofchagas/vibify",
+      },
+      {
+        icon: <GoogleChromeLogo size={25} />,
+        text: "Website",
+        url: "https://vibify-listen-to-music.vercel.app/",
       },
     ],
   },
